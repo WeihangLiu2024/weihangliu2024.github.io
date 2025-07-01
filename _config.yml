@@ -140,7 +140,7 @@ timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 
 # Plugins
-url: "https://github.com/WeihangLiu2024/weihangliu2024.github.io"
+url: "https://weihangliu2024.github.io/"
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
