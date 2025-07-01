@@ -27,9 +27,9 @@ applications on edge platforms such as NVIDIA Jetson, FPGAs, and ASICs.
 # 🔥 News
 - *2025.06*: One paper submitted to TCSVT.
 - *2025.06*: One paper submitted to TSP.
-- *2025.05*: One paper submitted to Siggraph Aisa.
 - *2025.04*: One paper submitted to ACM MM.
 
+[//]: # (- *2025.05*: One paper submitted to Siggraph Aisa.)
 
 [//]: # (- *2025.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
