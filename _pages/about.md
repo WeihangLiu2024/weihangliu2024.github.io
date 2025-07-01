@@ -101,6 +101,7 @@ applications on edge platforms such as NVIDIA Jetson, FPGAs, and ASICs.
 [//]: # (- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]]&#40;https://github.com/&#41;)
 
 # 💻 Internships & Work experience
+- *2023.09 - now*, Algorithm researcher Intern at [GGU Technology Co., Ltd](https://ggutech.com/).
 - *2023.01 - 2023.07*, Engineer at Aviation Industry corporation of China.
 - *2022.06 - 2022.12*, Algorithm engineer at X-ring, Xiaomi.
-- *2021.06 - 2021.12*, Internship as algorithm engineer at ArrayComm, Chengdu, China.
+- *2021.06 - 2021.12*, Algorithm engineer Intern at ArrayComm, Chengdu, China.
