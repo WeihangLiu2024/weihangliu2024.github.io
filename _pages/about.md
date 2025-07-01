@@ -103,4 +103,4 @@ applications on edge platforms such as NVIDIA Jetson, FPGAs, and ASICs.
 # 💻 Internships & Work experience
 - *2023.01 - 2023.07*, Engineer at Aviation Industry corporation of China.
 - *2022.06 - 2022.12*, Algorithm engineer at X-ring, Xiaomi.
-- *2021.06 - 2021.12*, Internship as algorithm engineer at [ArrayComm](https://www.arraycomm.com/), Chengdu, China.
+- *2021.06 - 2021.12*, Internship as algorithm engineer at ArrayComm, Chengdu, China.
