@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently working toward the doctoral degree in electronic and information engineering with School of Information 
+I am currently working toward the doctoral degree, supervised by [Prof. Xin Lou](https://sist.shanghaitech.edu.cn/louxin/main.htm), in electronic and information engineering with School of Information 
 Science and Technology, ShanghaiTech University, Shanghai, China.
 
 My research interests include lightweight algorithms for artificial intelligence and collaborative optimization of 
