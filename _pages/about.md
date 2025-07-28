@@ -27,13 +27,26 @@ applications on edge platforms such as NVIDIA Jetson, FPGAs, and ASICs.
 # 🔥 News
 - *2025.06*: One paper submitted to TCSVT.
 - *2025.06*: One paper submitted to TSP.
-- *2025.04*: One paper submitted to ACM MM.
 
 [//]: # (- *2025.05*: One paper submitted to Siggraph Aisa.)
 
 [//]: # (- *2025.04*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. )
 
 # 📝 Publications 
+
+[//]: # (##################################################################################################)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review by TCSVT</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting
+
+**Weihang Liu**, Yuke Li, Yuxuan Li, Jingyi Yu, Xin Lou
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Artifact-free Gaussian Splatting architecture aimed for the deployment on resource-constrained platform.
+</div>
+</div>
 
 [//]: # (##################################################################################################)
 
