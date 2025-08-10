@@ -25,6 +25,7 @@ software and hardware. I am currently working on the deployment and acceleration
 applications on edge platforms such as NVIDIA Jetson, FPGAs, and ASICs.
 
 # 🔥 News
+- *2025.08*: One paper conditionally accepted by Siggraph Aisa 2025.
 - *2025.07*: One paper submitted to KBS.
 - *2025.06*: One paper submitted to TCSVT.
 - *2025.06*: One paper submitted to TSP.
