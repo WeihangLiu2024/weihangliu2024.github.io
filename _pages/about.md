@@ -52,7 +52,7 @@ applications on edge platforms such as NVIDIA Jetson, FPGAs, and ASICs.
 
 [//]: # (##################################################################################################)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review</div><img src='images/citygo_pipeline.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/citygo_pipeline.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [CityGo: Lightweight Urban Modeling and Rendering with Proxy Buildings and Residual Gaussians](https://arxiv.org/abs/2505.21041)
