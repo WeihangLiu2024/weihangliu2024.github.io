@@ -20,9 +20,22 @@ redirect_from:
 I am currently working toward the doctoral degree, supervised by [Prof. Xin Lou](https://sist.shanghaitech.edu.cn/louxin/main.htm), in electronic and information engineering with School of Information 
 Science and Technology, ShanghaiTech University, Shanghai, China.
 
-My research interests include lightweight algorithms for artificial intelligence and collaborative optimization of 
-software and hardware. I am currently working on the deployment and acceleration of 3D computer vision and graphics 
-applications on edge platforms such as NVIDIA Jetson, FPGAs, and ASICs.
+[//]: # (My research interests include lightweight algorithms for artificial intelligence, collaborative optimization of )
+
+[//]: # (software and hardware and the deployment and acceleration of 3D computer vision and graphics applications on edge )
+
+[//]: # (platforms such as NVIDIA Jetson, FPGAs, and ASICs. And I am currently exploring generative models for 3D vision and the )
+
+[//]: # (creation of immersive volumetric video experiences.)
+
+My researches focus on developing efficient computational frameworks for artificial intelligence, with an emphasis on:
+
+* **Lightweight Algorithm Design:** Creating efficient models for resource-constrained environments.
+* **Software-Hardware Co-optimization:** Collaboratively optimizing algorithmic performance and hardware efficiency.
+* **Edge Computing Deployment:** Accelerating and deploying 3D computer vision and graphics applications on edge platforms, including NVIDIA Jetson, FPGAs, and ASICs.
+
+And I am currently exploring generative models for 3D vision and the 
+creation of immersive volumetric video experiences.
 
 # 🔥 News
 - *2025.08*: One paper conditionally accepted by Siggraph Aisa 2025.
