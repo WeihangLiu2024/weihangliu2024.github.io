@@ -34,7 +34,7 @@ My researches focus on developing efficient computational frameworks for artific
 * **Software-Hardware Co-optimization:** Collaboratively optimizing algorithmic performance and hardware efficiency.
 * **Edge Computing Deployment:** Accelerating and deploying 3D computer vision and graphics applications on edge platforms, including NVIDIA Jetson, FPGAs, and ASICs.
 
-And I am currently exploring generative models for 3D vision and the 
+And I am currently exploring data-driven methods for 3D vision and the 
 creation of immersive volumetric video experiences.
 
 # 🔥 News
