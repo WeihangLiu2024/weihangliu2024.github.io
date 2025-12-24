@@ -51,7 +51,7 @@ creation of immersive volumetric video experiences.
 
 [//]: # (##################################################################################################)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under review by TCSVT</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Minor Revision by TCSVT</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting](https://arxiv.org/abs/2508.03180)
