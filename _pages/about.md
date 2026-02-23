@@ -43,8 +43,10 @@ creation of immersive volumetric video experiences.
 - *2026.01*: One paper submitted to SIGGRAPH 2026.
 - *2025.08*: One paper accepted by SIGGRAPH Aisa 2025.
 - *2025.07*: One paper submitted to KBS.
-- *2025.06*: One paper submitted to TCSVT.
-- *2025.06*: One paper submitted to TSP.
+
+[//]: # (- *2025.06*: One paper submitted to TCSVT.)
+
+[//]: # (- *2025.06*: One paper submitted to TSP.)
 
 [//]: # (- *2025.05*: One paper submitted to Siggraph Aisa.)
 
