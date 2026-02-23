@@ -54,7 +54,7 @@ creation of immersive volumetric video experiences.
 
 [//]: # (##################################################################################################)
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Under Minor Revision by TCSVT</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Duplex-GS: Proxy-Guided Weighted Blending for Real-Time Order-Independent Gaussian Splatting](https://arxiv.org/abs/2508.03180)
@@ -108,7 +108,7 @@ creation of immersive volumetric video experiences.
 </div>
 </div>
 
-- [Quantitative Error Feedback for Quantization Noise Reduction of Filtering over Graphs](https://arxiv.org/abs/2506.01404), Xue Xian Zheng, **Weihang Liu**, Xin Lou, Stefan Vlaski, Tareq Al-Naffouri
+- [Quantitative Error Feedback for Quantization Noise Reduction of Filtering over Graphs](https://arxiv.org/abs/2506.01404), Xue Xian Zheng, **Weihang Liu**, Xin Lou, Stefan Vlaski, Tareq Al-Naffouri, **TSP 2026**
 
 - [Massive MIMO Channel Prediction in Real Propagation Environments Using Tensor Decomposition and Autoregressive Models](https://ieeexplore.ieee.org/document/9977664), **Weihang Liu**, Ziyu Chen, Xiang Gao, **PIMRC 2022**, Kyoto, Japan,
 
