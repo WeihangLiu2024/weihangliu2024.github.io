@@ -38,11 +38,11 @@ And I am currently exploring data-driven methods for 3D vision and the
 creation of immersive volumetric video experiences.
 
 # 🔥 News
+- *2026.05*: One paper submitted to SIGGRAPH Asia 2026.
 - *2026.03*: One paper accepted by SIGGRAPH 2026.
 - *2026.02*: One paper accepted by TCSVT.
 - *2026.02*: One paper accepted by TSP.
-- *2025.08*: One paper accepted by SIGGRAPH Aisa 2025.
-- *2025.07*: One paper submitted to KBS.
+- *2025.08*: One paper accepted by SIGGRAPH Asia 2025.
 
 [//]: # (- *2025.06*: One paper submitted to TCSVT.)
 
