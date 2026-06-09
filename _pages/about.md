@@ -64,7 +64,7 @@ creation of immersive volumetric video experiences.
 Yuke Li, **Weihang Liu**, Cheng Zhang, Yuefeng Zhang, Jiadi Cui, Zixuan Wang, Junran Ding, Haoyu Wu, Yujiao Shi, Jingyi Yu, Xin Lou
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Artifact-free Gaussian Splatting architecture aimed for the deployment on resource-constrained platform.
+- A meta-learning based training paradigm for feed-forward 3D recontruction models.
 </div>
 </div>
 
