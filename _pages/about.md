@@ -56,6 +56,20 @@ creation of immersive volumetric video experiences.
 
 [//]: # (##################################################################################################)
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ArXiv</div><img src='images/ForeSplat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2605.22020)
+
+Yuke Li, **Weihang Liu**, Cheng Zhang, Yuefeng Zhang, Jiadi Cui, Zixuan Wang, Junran Ding, Haoyu Wu, Yujiao Shi, Jingyi Yu, Xin Lou
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- Artifact-free Gaussian Splatting architecture aimed for the deployment on resource-constrained platform.
+</div>
+</div>
+
+[//]: # (##################################################################################################)
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">TCSVT 2026</div><img src='images/TCSVT.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
