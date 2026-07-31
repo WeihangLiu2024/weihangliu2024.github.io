@@ -38,7 +38,7 @@ And I am currently exploring data-driven methods for 3D vision and the
 creation of immersive volumetric video experiences.
 
 # 🔥 News
-- *2026.05*: One paper submitted to SIGGRAPH Asia 2026.
+- *2026.05*: One paper submitted to AAAI 2027.
 - *2026.03*: One paper accepted by SIGGRAPH 2026.
 - *2026.02*: One paper accepted by TCSVT.
 - *2026.02*: One paper accepted by TSP.
@@ -62,6 +62,20 @@ creation of immersive volumetric video experiences.
 [ForeSplat: Optimization-Aware Foresight for Feed-Forward 3D Gaussian Splatting](https://arxiv.org/abs/2605.22020)
 
 Yuke Li, **Weihang Liu**, Cheng Zhang, Yuefeng Zhang, Jiadi Cui, Zixuan Wang, Junran Ding, Haoyu Wu, Yujiao Shi, Jingyi Yu, Xin Lou
+
+<strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+- A meta-learning based training paradigm for feed-forward 3D recontruction models.
+</div>
+</div>
+
+[//]: # (##################################################################################################)
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">SIGGRAPH 2026</div><img src='images/sharpgs_teaser.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SHARP-GS: Scalable High-fidelity Accelerated Rendering Pipeline for Ultra-high Resolution 3D Gaussian Splatting](https://dl.acm.org/doi/10.1145/3799902.3811090)
+
+JunRan Ding\*, **Weihang Liu\***, YuKe Li, YiZhou Wang, AnTong Li, QiHan Ding, Xin Lou, JingYi Yu
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - A meta-learning based training paradigm for feed-forward 3D recontruction models.
