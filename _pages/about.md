@@ -78,7 +78,7 @@ Yuke Li, **Weihang Liu**, Cheng Zhang, Yuefeng Zhang, Jiadi Cui, Zixuan Wang, Ju
 JunRan Ding\*, **Weihang Liu\***, YuKe Li, YiZhou Wang, AnTong Li, QiHan Ding, Xin Lou, JingYi Yu
 
 <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- A meta-learning based training paradigm for feed-forward 3D recontruction models.
+- A GS acceleration framework for devices with high-resolution requirements, such as VR devices.
 </div>
 </div>
 
